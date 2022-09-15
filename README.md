@@ -1,5 +1,5 @@
 ## Salve simpatia!
-### Sou Evandro Mingorance, professor e criadora de conteúdo de programação e tecnologia!
+### Sou Evandro Mingorance, estudande de Front-end ReactJS
 
 <div align="center">
   <a href="https://github.com/evandromingorance">
